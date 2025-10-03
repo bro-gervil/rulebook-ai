@@ -1,6 +1,10 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+- For bug report, use issues or use rulebook-ai command `rulebook-ai bug-report`
+- For real-time chat, community support, and to share your ideas, [Join our Discord](https://discord.gg/aNmQB7JWPe) 
+- Have specific feedback or want a personal demo? [Book a Chat on my Calendar](https://calendar.app.google/xx3S3CuKSBAt9d9Y7)
+
 # Rulebook-AI: The AI Environment Manager
 
 `rulebook-ai` is a command-line tool for packaging and deploying consistent, expert environments—**rules, context, and tools**—to your favorite AI coding assistants.
@@ -126,6 +130,8 @@ flowchart TD
 
 ## Contributing
 
+[Join our Discord](https://discord.gg/aNmQB7JWPe) if any questions or idea discussion about contribution.
 This project thrives on community contributions. You can contribute by:
 -   **Creating and Sharing Packs:** Got a great set of rules and tools for a specific framework or role? Package it up and share it! See the [Pack Developer Guide](memory/docs/features/community_packs/pack_developer_guide.md).
 -   **Reporting Bugs or Ideas:** Open an **Issue** in the repo. The `rulebook-ai bug-report` command will take you there.
+-   **Contributing the repo:** go to [CONTRIBUTING.md](CONTRIBUTING.md)
